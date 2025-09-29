@@ -15,8 +15,8 @@ mortgage_calculator <- function(principal, annual_rate, years){
 }
 
 # input
-principal <- 300000
-annual_rate <- 6.4
+principal <- 200000
+annual_rate <- 6.25
 years <- 30
 
 # output
